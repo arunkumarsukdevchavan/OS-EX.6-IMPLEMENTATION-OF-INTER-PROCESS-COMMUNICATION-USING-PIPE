@@ -33,7 +33,7 @@ int main()
 }
 ```
 ## OUTPUT:
-![61](https://github.com/A-Thiyagarajan/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118707693/59e561c6-3cf0-4f4a-8c3e-55989ed27398)
+![Exp06](https://github.com/arunkumarsukdevchavan/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118343978/3527244c-796a-43ea-9de4-f97e1602dcde)
 
 
 ## RESULT:
